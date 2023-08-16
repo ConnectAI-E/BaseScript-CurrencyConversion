@@ -1,11 +1,19 @@
-# Getting Started
-- Hit run
-- Edit [App.tsx](#src/App.tsx) and watch it live update!
+## CurrencyConversion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/connectai-e/awesome-basescript)
 
-# Learn More
+> 货币转换
 
-You can learn more in the [Base Extension Development Guide](https://bytedance.feishu.cn/docx/VxhudDXbyo1V7jxAcTbctJQ5nvc) or [多维表格扩展脚本开发指南](https://bytedance.feishu.cn/docx/HazFdSHH9ofRGKx8424cwzLlnZc).
+![image](https://github.com/ConnectAI-E/BaseScript-CurrencyConversion/assets/110169811/1d395803-8350-4007-a1d5-ffaa9372e48a)
 
-## Install packages
 
-Install packages in Shell pane or search and add in Packages pane.
+### Getting Started
+1️⃣ clone deme
+```
+git clone https://github.com/ConnectAI-E/BaseScript-CurrencyConversion
+pnpm install
+pnpm dev
+```
+2️⃣ 复制 http://localhost:5173/ 到 多维表格 webview 地址
+
+
+
+
