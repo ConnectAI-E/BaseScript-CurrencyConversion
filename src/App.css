@@ -1,0 +1,34 @@
+@import 'reset-css';
+
+.container {
+  padding: 12px 24px 0 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  .semi-icon-default {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .semi-banner-icon {
+    margin-right: 8px;
+  }
+
+  .title {
+   width: 100%;
+  }
+}
+
+.footer {
+  margin-top: 12px;
+  display: flex;
+  align-items: center;
+  height: 44px;
+}
+
+.item {
+  width: 100%;
+  margin: 12px 0 8px 0
+}
